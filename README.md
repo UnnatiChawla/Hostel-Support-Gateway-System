@@ -61,6 +61,31 @@ This project utilizes Component Library Preline, ComponentLand for cards, pages,
 ```bash
 git clone [repository_url]
 ```
+2. Navigate the Project Directory
+```bash
+cd [project_directory]
+```
+3. Install Dependencies
+````bash
+npm install
+
+````
+4. Configure the database:
+
+Set up PostgreSQL and update the database configuration.
+For backend
+````bash
+
+npm start
+````
+5. Run the Application:
+````bash
+run dev
+````
+
+# Contribution
+
+Contribution are welcome!
 
 
 
