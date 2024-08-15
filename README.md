@@ -58,7 +58,9 @@ This project utilizes Component Library Preline, ComponentLand for cards, pages,
 # Getting Started
 
 To run the Hostel Support Gateway System locally:
+```bash
 git clone [repository_url]
+
 
 
 
