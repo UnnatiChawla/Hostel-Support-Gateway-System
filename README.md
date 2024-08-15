@@ -63,6 +63,11 @@ git clone [repository_url]
 
 
 
+2. Navigate to the project directory:
+
+
+
+
 
 
 
