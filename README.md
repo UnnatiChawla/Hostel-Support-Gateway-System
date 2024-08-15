@@ -24,6 +24,7 @@ This project utilizes Component Library Preline, ComponentLand for cards, pages,
 
 # Project Preview
 <strong><small>Login Page</small></strong>
+
 ![image](https://github.com/user-attachments/assets/3f4f4be4-87cd-4e2b-928b-4c718a198da8)
 
 <strong><small>Signup Page</small></strong>
